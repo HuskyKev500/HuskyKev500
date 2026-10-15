@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+<p>"Hello There! I'm a Computer Science Freshman!"</p>
 <!--
 **HuskyKev500/HuskyKev500** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
